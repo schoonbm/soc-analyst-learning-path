@@ -5,10 +5,10 @@ Welcome! This repository tracks my progress and notes as I complete the SOC Anal
 
 ## 📈 Progress
 
-- [x] [SOC Fundamentals](SOC%20Fundamentals/SOC%20Fundamentals.md)
-- [x] [Cyber Kill Chain](Cyber%20Kill%20Chain/Cyber%20Kill%20Chain.md)
-- [x] [MITRE ATT&CK Framework](MITRE%20ATT%26CK%20Framework/MITRE%20ATT%26CK%20Framework.md)
-- [x] [Phishing Email Analysis](Phishing%20Email%20Analysis/Phishing%20Email%20Analysis.md)
+- [x] [SOC Fundamentals](SOC%20Fundamentals.md)
+- [x] [Cyber Kill Chain](Cyber%20Kill%20Chain.md)
+- [x] [MITRE ATT&CK Framework](MITRE%20ATT%26CK%20Framework.md)
+- [x] [Phishing Email Analysis](Phishing%20Email%20Analysis.md)
 - [x] Detecting Web Attacks *(in progress)*
 - [ ] Detecting Web Attacks - Part 2
 - [ ] Investigating Web Attacks
